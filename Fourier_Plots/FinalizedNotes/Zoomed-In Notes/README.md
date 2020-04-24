@@ -1,0 +1,1 @@
+"Zoomed-In" for the notes within this directory refers to capturing the fundamental frequency for each note within narrower margins.
